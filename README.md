@@ -40,6 +40,6 @@ Each node runs custom-developed firmware written in Embedded C and C++, optimize
 
 
 ## Block Diagram / Methodology
-![Block Diagram](PCB/Images/Screenshot 2024-12-19 135331.png)
+![Block Diagram](PCB/Images/BLOCK_DIAGRAM.png)
 ## PCB
-![PCB](PCB/Images/IMG)
+![PCB](PCB/Images/IMG.jpg)
