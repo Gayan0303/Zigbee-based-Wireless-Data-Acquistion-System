@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ATMEGA_8A")(type "KiCad")(uri "C:/Users/ganap/Downloads/ATMEGA8A-PU/KiCad")(options "")(descr ""))
+)
