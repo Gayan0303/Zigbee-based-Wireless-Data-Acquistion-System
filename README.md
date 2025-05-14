@@ -40,7 +40,14 @@ Each node runs custom-developed firmware written in Embedded C and C++, optimize
 
 
 ## Block Diagram / Methodology
-![Block Diagram](PCB/Images/BLOCK_DIAGRAM.png)
+![Block Diagram]()
 ## PCB
+Custom Developed PCB — WDAQ V1.0
+
+The PCB shown below is a custom-designed circular board that forms the heart of the Wireless Data Acquisition (WDAQ) system. It is developed around the ATmega8A microcontroller and is purpose-built for low-power, modular environmental sensing and wireless data transmission.
+
 ![PCB](PCB/Images/IMG.jpg)
 ![PCB](PCB/Images/t3d.JPG)
+
+This custom PCB is central to the modular and scalable WDAQ system. It offers flexibility to work as a sensor node, aggregation node, or even a diagnostic tool, depending on what modules and firmware are loaded.
+
