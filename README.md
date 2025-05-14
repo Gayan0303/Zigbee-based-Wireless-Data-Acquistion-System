@@ -40,7 +40,7 @@ Each node runs custom-developed firmware written in Embedded C and C++, optimize
 
 
 ## Block Diagram / Methodology
-![Block Diagram]()
+![Block Diagram](PCB/Images/BLOCK_DIAGRAM.png)
 ## PCB
 Custom Developed PCB — WDAQ V1.0
 
